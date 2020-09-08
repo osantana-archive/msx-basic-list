@@ -78,7 +78,7 @@ char *tokens_2[128] = {
 /* A0-AF */
 	"CDBL", "FIX", "STICK", "STRIG", "PDL", "PAD", "DSKF", "FPOS",
 	"CVI", "CVS", "CVD",
-	"EOF", "LOC", "LOF", "MKI$", "MK$",
+	"EOF", "LOC", "LOF", "MKI$", "MKS$",
 
 
 /* B0-BF */
